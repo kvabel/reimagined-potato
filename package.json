@@ -1,0 +1,26 @@
+{
+  "name": "reimagined-potato",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvabel/reimagined-potato.git"
+  },
+  "author": "Keven Abel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvabel/reimagined-potato/issues"
+  },
+  "homepage": "https://github.com/kvabel/reimagined-potato#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "mocha": "^10.0.0"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2"
+  }
+}
